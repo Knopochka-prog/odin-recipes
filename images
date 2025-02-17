@@ -1,0 +1,4 @@
+<script>start("/Users/katerinaivanova/Desktop/INDEX.HTML/html-boilerplate/repos/odin-recipes/images/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("galaktoboureko.jpg","galaktoboureko.jpg",0,287,"287 B",1739818365,"17/2/25, 8:52:45 μ.μ.");</script>
+<script>addRow("spanakopita.jpg","spanakopita.jpg",0,275,"275 B",1739818365,"17/2/25, 8:52:45 μ.μ.");</script>
